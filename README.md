@@ -11,7 +11,7 @@
 - 历史运行记录（轮次，时间，参与人数，1/2均值）
 - 说明界面
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;示例 
+![示例](https://github.com/jerry2000z/Behavioral-Finance-Game/blob/master/pages.jpg)
 
 后端运算：
 - 使用python
